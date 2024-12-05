@@ -34,7 +34,7 @@
     "graphql-ws": "^5.8.2",
     "ioredis": "^5.4.1",
     "lru-cache": "^7.7.1",
-    "mongoose": "^6.0.12",
+    "mongoose": "^6.11.3",
     "multiformats": "^9.7.1",
     "pino": "^7.1.0",
     "pino-slack-transport": "^1.1.0",
